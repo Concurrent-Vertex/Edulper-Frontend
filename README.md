@@ -1,2 +1,2 @@
-# Edulper-Server
-The Main Server for Edulper
+# Edulper-Frontend
+Frontend for Edulper.
