@@ -10,6 +10,7 @@ function SpeechToText() {
           alignItems: "center",
           justifyContent: "center",
           flexDirection: "column",
+          textAlign: "center",
         }}
       >
         <Button variant="primary" type="submit" style={{ margin: "10px" }}>
